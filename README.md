@@ -6,13 +6,13 @@
 <a href="https://yansigit.github.io/"><img src="https://img.shields.io/badge/GitHub-Blog-100000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 
-## [Github Stat](https://github.com/yansigit#) :octocat:
+## :octocat: [Github Stat](https://github.com/yansigit#)
 
 <p align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=yansigit&count_private=true&hide=stars' />
 </p>
 
-## [Leetcode Stat](https://github.com/yansigit#) :chart_with_upwards_trend:
+## :chart_with_upwards_trend: [Leetcode Stat](https://github.com/yansigit#)
 
 <p align='center'>
   <img src="https://leetcode-badge-maker.vercel.app/api/leetcode/yansigit" />
@@ -27,7 +27,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /><img src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/></p>
 
-## [About Me](https://yansigit.github.io) 👋
+## 👋 [About Me](https://yansigit.github.io)
 
 - :earth_asia: I'm a developer and currently living in Korea
 - :computer: I'm digging cross-platform things recently
