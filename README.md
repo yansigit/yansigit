@@ -1,4 +1,4 @@
-![banner](https://github.com/yansigit/yansigit/blob/main/assets/Github-Banner.gif?raw=true)
+![banner](https://github.com/yansigit/yansigit/blob/main/assets/Github-Banner-2.gif?raw=true)
 
 <p align='center'>
 <a href="https://dev.to/yansigit"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>&nbsp;&nbsp;
@@ -10,12 +10,6 @@
 
 <p align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=yansigit&count_private=true&hide=stars' />
-</p>
-
-## :chart_with_upwards_trend: [Leetcode Stat](https://github.com/yansigit#)
-
-<p align='center'>
-  <img src="https://leetcode-badge-maker.vercel.app/api/leetcode/yansigit" />
 </p>
 
 ## [Languages interested in](https://github.com/yansigit#)
