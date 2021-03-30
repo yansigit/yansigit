@@ -9,7 +9,7 @@
 ## :octocat: [Github Stat](https://github.com/yansigit#)
 
 <p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=yansigit&count_private=true&hide=stars' />
+  <img src='https://github-readme-stats.vercel.app/api?username=yansigit&count_private=true&hide=stars&theme=great-gatsby&show_icons=true&bg_color=DEG,000000,111111,222222' />
 </p>
 
 ## [Languages interested in](https://github.com/yansigit#)
@@ -23,6 +23,6 @@
 
 ## 👋 [About Me](https://yansigit.github.io)
 
-- :earth_asia: I'm a developer and currently living in Korea
-- :computer: I'm digging cross-platform things recently
-- :airplane: I'd love to work in another country, at any time!
+- :earth_asia: A developer currently living in Korea.
+- :computer: A challenger. Digging cross-platform things recently.
+- :airplane: A explorer. Opened to work on any places ;)
