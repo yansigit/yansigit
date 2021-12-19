@@ -3,7 +3,7 @@
 <p align='center'>
 <a href="https://dev.to/yansigit"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sbyoon/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://yansigit.github.io/"><img src="https://img.shields.io/badge/GitHub-Blog-100000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://yansigit.vercel.app/"><img src="https://img.shields.io/badge/GitHub-Blog-100000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 
 ## :octocat: [Github Stat](https://github.com/yansigit#)
@@ -21,7 +21,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /><img src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/></p>
 
-## 👋 [About Me](https://yansigit.github.io)
+## 👋 [About Me](https://yansigit.vercel.app)
 
 - :earth_asia: A developer currently living in Korea.
 - :computer: A challenger. Digging cross-platform things recently.
