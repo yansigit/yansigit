@@ -1,5 +1,3 @@
-![banner](https://github.com/yansigit/yansigit/blob/main/assets/Github-Banner-2.gif?raw=true)
-
 <p align='center'>
 <a href="https://dev.to/yansigit"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sbyoon/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
@@ -34,7 +32,8 @@
 </p>
 
 ## 👋 [About Me](https://yansigit.vercel.app)
-
-- :earth_asia: A developer currently living in Korea.
-- :computer: A challenger. Digging cross-platform things recently.
-- :airplane: A explorer. Opened to work on any places ;)
+<p align="center">
+  :airplane: An explorer. opened to move anywhere ;)<br>
+  :family_man_woman_girl_boy: A collaborator. multiple team-work experiences<br>
+  :computer: A passionate developer. digging cross-platform technologies recently!<br>
+</p>
