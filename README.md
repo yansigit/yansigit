@@ -7,7 +7,13 @@
 ## :octocat: [Github Stat](https://github.com/yansigit#)
 
 <p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=yansigit&count_private=true&hide=stars&theme=great-gatsby&show_icons=true&bg_color=DEG,000000,111111,222222' />
+  <img src='https://github-readme-stats.vercel.app/api?username=yansigit&count_private=true&hide=stars&theme=codeSTACKr&show_icons=true&bg_color=101111&border_color=21262D' />
+</p>
+
+## 🧭 [Leetcode Stat](https://leetcode.com/yansigit)
+
+<p align='center'>
+  <img src='https://leetcard.jacoblin.cool/yansigit' />
 </p>
 
 ## [Languages interested in](https://github.com/yansigit#)
