@@ -1,6 +1,6 @@
 ### About Me
 
-<p align="center"><a href="https://linkedin.com/in/sbyoon"><img src="https://github.com/yansigit/yansigit/blob/main/assets/linkedin-profile.png?raw=true" /></a></p>
+<p align="center"><a href="https://linkedin.com/in/sbyoon"><img src="https://github.com/yansigit/yansigit/blob/main/assets/business-card.png?raw=true" style="height: 13rem" /></a></p>
 
 <p align="center">
   As a developer, I'm passionate about utilizing cutting-edge technologies to build innovative solutions in diverse environments. I possess professional expertise in TypeScript, JavaScript, SPA (React, Vue), Testing Library (Jest), and SCSS. Additionally, I'm enthusiastic about exploring other technologies, including C#, Golang, Python for backend development, and cross-platform mobile development tools such as Flutter, React Native, MAUI, and Xamarin.
