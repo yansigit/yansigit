@@ -1,4 +1,7 @@
 ### About Me
+
+<p align="center"><img src="https://github.com/yansigit/yansigit/blob/main/assets/linkedin-profile.png?raw=true" /></p>
+
 <p align="center">
   As a developer, I'm passionate about utilizing cutting-edge technologies to build innovative solutions in diverse environments. I possess professional expertise in TypeScript, JavaScript, SPA (React, Vue), Testing Library (Jest), and SCSS. Additionally, I'm enthusiastic about exploring other technologies, including C#, Golang, Python for backend development, and cross-platform mobile development tools such as Flutter, React Native, MAUI, and Xamarin.
 </p>
@@ -8,6 +11,7 @@
 <a href="https://yansigit.vercel.app/"><img src="https://img.shields.io/badge/GitHub-Blog-100000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 
+<!--
 ### Github Stat
 
 <p align='center'>
@@ -19,6 +23,7 @@
 <p align='center'>
   <a href="https://leetcode.com/yansigit"><img src='https://leetcard.jacoblin.cool/yansigit' /></a>
 </p>
+-->
 
 ### Languages interested in
 
